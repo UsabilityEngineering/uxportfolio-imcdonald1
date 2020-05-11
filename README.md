@@ -9,4 +9,4 @@ My name is Ian McDonald. I am Senior studying computer science. I am taking this
 
 
 ## UX Journal
-
+[Journal 3](journal-03/README.md)
